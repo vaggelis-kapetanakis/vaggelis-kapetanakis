@@ -50,6 +50,10 @@
 
 </details>
 
+---
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vaggelis-kapetanakis&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- [website]: https://codeSTACKr.com -->
 <!-- [course]: http://vsCodeHero.com -->
 <!-- [twitter]: https://twitter.com/codeSTACKr
