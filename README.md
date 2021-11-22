@@ -44,7 +44,7 @@
 ---
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats-52xbrdhed-vaggelis-kapetanakis.vercel.app/api/?username=vaggelis-kapetanakis&repo=github-readme-stats&show_icons=true&hide_border=true&count_private=true&theme=github_dark" />
+  <img align="left" src="https://github-readme-stats-52xbrdhed-vaggelis-kapetanakis.vercel.app/api/?username=vaggelis-kapetanakis&repo=github-readme-stats&show_icons=true&hide_border=false&count_private=true&theme=github_dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="right" src="https://github-readme-stats-52xbrdhed-vaggelis-kapetanakis.vercel.app/api/top-langs/?username=vaggelis-kapetanakis&layout=compact&show_icons=true&hide_border=true&count_private=true&theme=github_dark" />
