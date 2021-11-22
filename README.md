@@ -43,7 +43,7 @@
 
 ---
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/vaggelis-kapetanakis?tab=repositories">
   <img align="center" src="https://github-readme-stats-52xbrdhed-vaggelis-kapetanakis.vercel.app/api/?username=vaggelis-kapetanakis&repo=github-readme-stats&show_icons=true&hide_border=false&count_private=true&theme=github_dark" />
   <br />
   <br />
