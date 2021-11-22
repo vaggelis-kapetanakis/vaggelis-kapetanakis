@@ -52,8 +52,8 @@
 
 ---
 
-[![Readme Card](https://github-readme-stats-flw9ciqbo-vaggelis-kapetanakis.vercel.app/api/pin/?username=vaggelis-kapetanakis&repo=github-readme-stats&show_icons=true&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats-flw9ciqbo-vaggelis-kapetanakis.vercel.app/api/top-langs/?username=vaggelis-kapetanakis&layout=compact&show_icons=true&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats-silk-three.vercel.app/api/pin/?username=vaggelis-kapetanakis&repo=github-readme-stats&show_icons=true&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-silk-three.vercel.app/api/top-langs/?username=vaggelis-kapetanakis&layout=compact&show_icons=true&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- [website]: https://codeSTACKr.com -->
