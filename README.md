@@ -46,7 +46,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="vaggelis-kapetanakis's GitHub Stats" src="https://github-readme-stats.vaggelis-kapetanakis.vercel.app/api?username=vaggelis-kapetanakis&show_icons=true&hide_border=true" />
+  <img align="left" alt="vaggelis-kapetanakis's GitHub Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=vaggelis-kapetanakis&show_icons=true&hide_border=true&count_private=true" />
 
 </details>
 
