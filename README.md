@@ -35,7 +35,7 @@
 <a href="#"><img align="left" alt="MySQL" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /></a>
 <a href="#"><img align="left" alt="MongoDB" width="36px" src="https://mpng.subpng.com/20190401/zsf/kisspng-mongodb-document-oriented-database-nosql-openshift-web-app-development-servcie-in-dehradun-5ca1b8cb8a0f32.3708278115541024755655.jpg" /></a>
 <a href="#"><img align="left" alt="Git" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" /></a>
-<a href="#"><img align="left" alt="GitHub" width="26px" src="https://www.vhv.rs/dpng/d/464-4644573_github-logo-png-github-transparent-png.png" /></a>
+<a href="#"><img align="left" alt="GitHub" width="36px" src="https://mpng.subpng.com/20180824/jtl/kisspng-computer-icons-logo-portable-network-graphics-clip-icons-for-free-iconza-circle-social-5b7fe46b0bac53.1999041115351082030478.jpg" /></a>
 <a href="#"><img align="left" alt="Terminal" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></a>
 
 <br />
