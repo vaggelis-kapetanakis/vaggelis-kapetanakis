@@ -45,7 +45,9 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats-52xbrdhed-vaggelis-kapetanakis.vercel.app/api/?username=vaggelis-kapetanakis&repo=github-readme-stats&show_icons=true&hide_border=false&count_private=true&theme=github_dark" />
-  <img align="center" src="https://github-readme-stats-52xbrdhed-vaggelis-kapetanakis.vercel.app/api/top-langs/?username=vaggelis-kapetanakis&layout=compact&show_icons=true&hide_border=false&count_private=true&theme=github_dark" />
+  <br />
+  <br />
+  <img align="center" src="https://github-readme-stats-52xbrdhed-vaggelis-kapetanakis.vercel.app/api/top-langs/?username=vaggelis-kapetanakis&layout=compact&show_icons=true&hide_border=false&count_private=true&theme=github_dark&langs_count=10" />
 </a>
 <br />
 <br />
